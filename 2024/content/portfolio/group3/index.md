@@ -44,6 +44,7 @@ Roteiro para testes / guion para pruebas:
 ##### Tecnologias / Tecnologías
 
 - Front-end: Javascript, ReactJS
+- App : React Native , Expo
 - Back-end: Java, Spring Boot, PostgreSQL, Docker
 - Deploy: Netlify (front-end), AWS (back-end)
 
